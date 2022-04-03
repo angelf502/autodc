@@ -6,7 +6,8 @@ cd autodc/
 python3 main.py
 ```
 # Vista
-![DC](https://i.ytimg.com/vi/w8LRLkdWwc4/maxresdefault.jpg)
+![DC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7AMOcfTdCQ5dfwwjXlS2xfrA-02MlpFz-_jmWK8jsio4FTzzKMQYWJMbR4cCi5F2cr5NUrwEn_gGQFWrGlrjtVOU1hIC1EBT-qR5HxLMiz5pJgnltoQZvA-GIxy5TvMzYmwyab6NkvQfdqX4577nRgzIi6gLumT1uy3Hj4OajKdmW3uWdmZv9kgDhzw/s819/4.JPG)
+
 
 # Utilidades
 - **samba**: Es un conjunto de herramientas que se utilizan para compartir entre redes mixtas de Windows y Linux.

@@ -13,7 +13,7 @@ python3 main.py
 - **samba**: Es un conjunto de herramientas que se utilizan para compartir entre redes mixtas de Windows y Linux.
 - **smbclient**: Es un cliente de samba que prueba conectividad.
 - **krb5-config**: Contiene información de configuración de Kerberos, incluidas las ubicaciones de los KDC y los servidores de administración para los dominios de Kerberos de interés.
-- 
+
 Cuando lleguemos a esta parte en la configuración nos pedirá que pongamos un "Reino predeterminado para la versión 5 de kerberos", en el que podemos poner el dominio que queremos. Ejemplo: google.es, youtube.com.gt, etc.
 ![1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOylkY39GKMjxavpvTkPxa6UV55oW8wJeLR422AwmmdgVlQ0UwG_3yzlfpX_Qky19q0KxhCF73xpXHS38DjHdRK8mvDpz3U5LqBfHT21tSOTw6M9oPhfyRR-qCAMmTaw0dtW65s3cv7AzwqlaKgNcOov2cvNfRfVFlK_b_DRQuUWJgoJQqVFbp8eP9IA/s1359/1.JPG)
 
